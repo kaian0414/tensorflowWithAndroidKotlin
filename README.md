@@ -2,6 +2,7 @@
 Ref: 使用TensorFlow在Android App中進行機器學習入門 https://blog.csdn.net/weixin_26739079/article/details/108515540
 
 # --以下是在Google Colab的代碼--
+![image](https://github.com/kaian0414/tensorflowWithAndroidKotlin/blob/master/colabcode.png)
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras

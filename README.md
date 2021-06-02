@@ -45,7 +45,7 @@ open("linear.tflite", "wb").write(tfmodel)
 
 #tflite就是android中需要用的
 
-# 在Android Studio中使用Tensorflow的注意
+# --在Android Studio中使用Tensorflow的注意--
 ![image](https://github.com/kaian0414/tensorflowWithAndroidKotlin/blob/master/TFinAndroid.png)
 
 # --計算y=2x-1, Android App截圖--

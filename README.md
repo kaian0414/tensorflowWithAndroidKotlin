@@ -45,3 +45,4 @@ open("linear.tflite", "wb").write(tfmodel)
 #tflite就是android中需要用的
 
 # --計算y=2x-1, Android App截圖--
+! [image](https://github.com/kaian0414/tensorflowWithAndroidKotlin/blob/master/tensorflowWithAndroidKotlin.png)
